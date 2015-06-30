@@ -1,4 +1,4 @@
 $(document).ready(function(){
-	console.log() = [];
-
-})
+	var console = {};
+	console.log = function(){};
+});
