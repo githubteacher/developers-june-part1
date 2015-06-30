@@ -17,7 +17,9 @@ You can find him on GitHub and Twitter: @brntbeer
 - Creating files on GitHub
 - Creating pull requests
 - Editing pull request files
-- Merging pull requests
+<BR>
+### Merging pull requests
+<BR>
 - Basic CLI Configuration
 - Cloning a Repository
 - Editing Local Files
