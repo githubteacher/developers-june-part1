@@ -16,6 +16,7 @@ You can find him on GitHub and Twitter: @brntbeer
 - Using branches
 - Creating files on GitHub
 - Creating pull requests
+-   my first edit/change
 - Editing pull request files
 - Merging pull requests
 - Basic CLI Configuration
