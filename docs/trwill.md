@@ -1,5 +1,4 @@
 ##Whats up @githubteacher
-
 ### My Bio:
 
 > Name: Taylor Will  
