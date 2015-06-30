@@ -7,3 +7,8 @@
 - Marital Status: Married
 
 - Following: Aurelia
+
+
+## Contact Info
+-Email nottelling@gmail.com
+
