@@ -6,7 +6,7 @@ Today's trainer is [Brent Beer](https://training.github.com/trainers/)
 
 You can find him on GitHub and Twitter: @brntbeer
 
-## What you will learn today ...
+## What you might learn today ...
 
 - Introduction to GitHub
 - Exploring a repository
