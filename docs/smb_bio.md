@@ -1,6 +1,6 @@
 # SMB Bio
 
 - name: scott
-- city: Austin
+- city: Austin, Texas
 - fave restaurant: Conan's Pizza
- - Whole Wheat Savage Deep Dish
+ - Whole Wheat Savage Deep Dish with extra Peppers
