@@ -23,3 +23,4 @@ You can find him on GitHub and Twitter: @brntbeer
 - Editing Local Files
 - The Two Stage Commit
 - Synchronizing Changes
+- Coffee Break
