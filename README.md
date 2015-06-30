@@ -1,4 +1,4 @@
-# GitHub for Developers - June 30 - July 1, 2015
+# test GitHub for Developers - June 30 - July 1, 2015
 
 Welcome to GitHub for Developers, Part 1.
 
@@ -6,7 +6,7 @@ Today's trainer is [Brent Beer](https://training.github.com/trainers/)
 
 You can find him on GitHub and Twitter: @brntbeer
 
-## What you will learn today ...
+## What you might learn today ...
 
 - Introduction to GitHub
 - Exploring a repository
@@ -23,3 +23,4 @@ You can find him on GitHub and Twitter: @brntbeer
 - Editing Local Files
 - The Two Stage Commit
 - Synchronizing Changes
+- Coffee Break
