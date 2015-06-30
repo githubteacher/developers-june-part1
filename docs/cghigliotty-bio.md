@@ -3,3 +3,4 @@
 - Org: Etsy
 - Favorite food: Spaghetti
 - Favorite cat: Tuxedo
+- Favorite drink: Whiskey
