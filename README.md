@@ -2,7 +2,7 @@
 
 Welcome to GitHub for Developers, Part 1.
 
-Today's trainer is [Brent Beer](https://training.github.com/trainers/) and [Cynthia Rich]
+Today's trainer is [Brent Beer](https://training.github.com/trainers/) and [Cynthia Rich](https://training.github.com/trainers/)
 
 You can find him on GitHub and Twitter: @brntbeer
 
