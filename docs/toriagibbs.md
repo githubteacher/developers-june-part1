@@ -6,3 +6,5 @@
 - Software engineer @ [Etsy](http://www.etsy.com)
 - cat lover
 - board game enthusiast
+- Canadian
+- expert cheese eater
