@@ -1,1 +1,5 @@
-I'm Awesome.
+# Github Sharmino Bio
+- I'm Awesome.
+- Name: Sharmino
+- Hometome: NYC
+- Favourite Meal: Spinach dip and burger at Hillstone.
