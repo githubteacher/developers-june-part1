@@ -1,2 +1,3 @@
 ## Chotai's Bio
-- Some over the top exagerated info 
+- I like nice scenery and lakes
+- puppies and kittens are cute
