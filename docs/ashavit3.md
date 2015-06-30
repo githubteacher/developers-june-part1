@@ -1,8 +1,9 @@
 # Amir Shavit Bio
 
 - Name: Amir Shavit
-- Live: At home
+- Live: @ home
 - Hometown: KS
 - Country: IL
 - Fav Restaurant: LA SHOVAVIM
-- Organization: Autodesk
+    - Try: The Syrian Dish
+- Organization: Autodesk IL
