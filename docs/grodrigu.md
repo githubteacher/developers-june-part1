@@ -7,3 +7,5 @@ Organization: <b>UC Irvine Athletics</b>
 Favorite Sport: <b>Soccer</b>
 
 Favorite Vegas Restaurant: <b>Sushi Mon</b>
+
+Sign: <b>Leo</b>
