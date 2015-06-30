@@ -4,7 +4,7 @@
 [twitter.com/scarletdrive](http://twitter.com/scarletdrive)
 
 - Software engineer @ [Etsy](http://www.etsy.com)
+  - search infrastructure team
 - cat lover
 - board game enthusiast
 - Canadian
-- expert cheese eater
