@@ -7,3 +7,4 @@
 - cat lover
 - board game enthusiast
 - Canadian
+- expert cheese eater
