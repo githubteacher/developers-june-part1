@@ -1,4 +1,6 @@
 # GitHub Student.
 - Name: Arty Martinez
-- Org: UC Irvine
+- Org: UC Irvine (uci.edu)
 - Favorite Food: Seafood
+
+
